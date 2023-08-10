@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pradeeppssharma829@gmail.com**
 
-- ⚡ Fun fact **I am funny😊**
+- ⚡ Fun fact **I love to play Badminton and Chai over coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
