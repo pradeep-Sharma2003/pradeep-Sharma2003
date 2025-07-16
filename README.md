@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeep-sharma2003&label=Profile%20views&color=0e75b6&style=flat" alt="pradeep-sharma2003" /> </p>
 
-- 💬 Ask me about **HTML ,CSS ,PHP,C,C++**
+- 💬 Ask me about **HTML ,CSS ,JavaScript, C, C++ and SQL**
 
 - 📫 How to reach me **pradeeppssharma829@gmail.com**
 
